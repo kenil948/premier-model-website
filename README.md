@@ -57,7 +57,7 @@ premier-model-website/
 
 ## Demo Video
 
-[Watch Demo Video](./premier-model-demo.mp4)
+[Watch Demo Video]([./premier-model-demo.mp4](https://drive.google.com/file/d/1WI6YUu6r_sOR8DF3iS4Kah4bennWFfLt/view?usp=drive_link))
 
 ## How to Run
 
