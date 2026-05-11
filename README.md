@@ -49,7 +49,7 @@ premier-model-website/
 
 ### Models Section
 
-![Models Section](./Images/models-section.png)
+![Models Section](./Images/desktop-preview.png)
 
 ### Mobile Responsive View
 
