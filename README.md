@@ -27,7 +27,6 @@ premier-model-website/
 ├── index.html
 ├── style.css
 ├── video.mp4
-├── premier-model-demo.mp4
 ├── README.md
 │
 ├── Images/
